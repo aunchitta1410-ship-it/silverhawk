@@ -1,0 +1,79 @@
+{
+  "nav": {
+     "home": "首页",
+    "tours": "旅游套餐",
+    "service": "服务",
+    "about": "关于我们",
+    "myBooking": "我的预订",
+    "contact": "联系我们"
+  },
+  "bookingForm": {
+    "title": "预订您的旅游",
+    "fullName": "姓名",
+    "enterName": "请输入您的姓名",
+    "email": "电子邮件",
+    "enterEmail": "请输入您的电子邮件",
+    "guests": "游客人数",
+    "travelDate": "出行日期",
+    "confirm": "确认预订"
+  },
+  "confirmation": {
+    "title": "预订请求已收到",
+    "thankYou": "感谢您预订 TRAVEL。",
+    "requestReceived": "您的预订请求已收到。",
+    "bookingId": "预订 ID",
+    "bookingDetails": "预订详情",
+    "name": "姓名",
+    "email": "电子邮件",
+    "tour": "旅游套餐",
+    "price": "价格",
+    "guests": "游客人数",
+    "travelDate": "出行日期",
+    "backHome": "返回首页",
+    "proceedToPayment": "前往付款",
+    "viewMyBooking": "查看我的预订",
+    "notFound": "未找到预订",
+    "invalidLink": "我们无法找到此预订或访问链接无效。"
+  },
+  "bookingProgress": {
+"redirectingToPayment": "您的预订已获批准。正在跳转到付款页面...",
+    "title": "预订进度",
+    "submitted": "已提交预订",
+    "review": "工作人员审核",
+    "payment": "付款",
+    "currentStatus": "当前状态",
+    "statusPending": "等待审核",
+    "statusApproved": "已批准",
+    "statusPaid": "已付款",
+    "statusRejected": "已拒绝／已取消",
+    "pendingMessage": "您的预订正在等待工作人员审核。",
+    "approvedMessage": "您的预订已获批准，可以继续付款。",
+    "paidMessage": "付款已成功完成。",
+    "rejectedMessage": "此预订已被拒绝或取消，请联系我们的团队。",
+    "refreshError": "无法更新预订状态，请重试。",
+    "proceedToPayment": "前往付款",
+    "pendingPaymentNotice": "预订获批准后即可付款。",
+    "contactNotice": "如需协助，请联系我们的团队。"
+  },
+ "paymentSuccess": {
+  "title": "付款成功",
+  "message": "谢谢！您的付款已成功处理。",
+  "details": "预订详情",
+  "bookingNumber": "预订编号",
+  "name": "姓名",
+  "email": "电子邮箱",
+  "tour": "旅游套餐",
+  "travelDate": "出行日期",
+  "guests": "人数",
+  "amountPaid": "已付金额",
+  "status": "状态",
+  "paid": "已付款",
+  "backHome": "返回首页"
+},
+  "common": {
+    "next": "下一步",
+    "back": "返回",
+    "cancel": "取消",
+    "submit": "提交"
+  }
+}

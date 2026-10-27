@@ -1,0 +1,32 @@
+{
+  "123": {
+    "booking_id": 123,
+    "amount": 2800,
+    "payment_method": "qr_payment",
+    "slip_url": "/images/sample-slip.png",
+    "slip_filename": "slip.jpg",
+    "customer_name": "John Doe",
+    "customer_email": "john@example.com",
+    "status": "rejected",
+    "id": "RCP-1792938692213-12",
+    "uploaded_at": "2026-10-25T14:31:32.213Z",
+    "verified_at": "2026-10-25T14:31:38.607Z",
+    "verified_by": "admin@silverhawk.com",
+    "reject_reason": "Slip image unreadable or transaction reference not found"
+  },
+  "RCP-1792938692213-12": {
+    "booking_id": 123,
+    "amount": 2800,
+    "payment_method": "qr_payment",
+    "slip_url": "/images/sample-slip.png",
+    "slip_filename": "slip.jpg",
+    "customer_name": "John Doe",
+    "customer_email": "john@example.com",
+    "status": "rejected",
+    "id": "RCP-1792938692213-12",
+    "uploaded_at": "2026-10-25T14:31:32.213Z",
+    "verified_at": "2026-10-25T14:31:38.607Z",
+    "verified_by": "admin@silverhawk.com",
+    "reject_reason": "Slip image unreadable or transaction reference not found"
+  }
+}

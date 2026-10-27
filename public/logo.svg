@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#E5CA8A" />
+      <stop offset="50%" stop-color="#D1B16A" />
+      <stop offset="100%" stop-color="#B89450" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  <circle cx="60" cy="60" r="54" fill="#22211D" stroke="url(#goldGrad)" stroke-width="3" filter="url(#shadow)" />
+  <circle cx="60" cy="60" r="48" fill="none" stroke="url(#goldGrad)" stroke-width="1" stroke-dasharray="3,3" opacity="0.6"/>
+  <!-- Elegant Hawk / Falcon Silhouette in Gold -->
+  <path d="M60 22 C64 32 74 38 86 42 C76 46 68 50 64 58 C62 50 58 46 48 42 C54 36 58 30 60 22 Z" fill="url(#goldGrad)" />
+  <!-- Spread Wings -->
+  <path d="M60 52 C72 48 88 56 94 72 C82 70 72 64 60 70 C48 64 38 70 26 72 C32 56 48 48 60 52 Z" fill="url(#goldGrad)" />
+  <!-- Tail feathers -->
+  <path d="M54 72 L60 92 L66 72 L60 76 Z" fill="url(#goldGrad)" />
+  <circle cx="60" cy="46" r="2.5" fill="#22211D" />
+</svg>

@@ -1,0 +1,289 @@
+{
+  "hero": {
+    "eyebrow": "SILVER HAWK GROUP",
+    "bg_image_url": "https://images.unsplash.com/photo-1537956965359-7573183d1f57?auto=format&fit=crop&w=1920&q=80",
+    "title": {
+      "en": "Beyond the Crowds, Closer to Nature",
+      "th": "หลีกหนีความวุ่นวาย สัมผัสธรรมชาติอย่างใกล้ชิด",
+      "zh": "远离喧嚣，回归自然"
+    },
+    "subtitle": {
+      "en": "Handpicked journeys across Phuket",
+      "th": "การเดินทางที่คัดสรรอย่างพิถีพิถันทั่วภูเก็ต",
+      "zh": "精选普吉岛深度旅行体验"
+    }
+  },
+  "themes_header": {
+    "eyebrow": {
+      "en": "EXPLORE YOURSELF",
+      "th": "ค้นพบตัวตนของคุณ",
+      "zh": "探索自己"
+    },
+    "title": {
+      "en": "7 Themes of Hero Traveler",
+      "th": "7 ธีมสำหรับนักเดินทาง",
+      "zh": "7种旅行者主题"
+    },
+    "subtitle": {
+      "en": "Different travelers. A more meaningful world.",
+      "th": "นักเดินทางที่แตกต่าง เพื่อโลกแห่งการเดินทางที่มีความหมายยิ่งขึ้น",
+      "zh": "不同的旅行者，更有意义的世界。"
+    }
+  },
+  "tours_header": {
+    "eyebrow": {
+      "en": "JOURNEYS FOR EVERY STYLE",
+      "th": "การเดินทางสำหรับทุกสไตล์",
+      "zh": "适合每一种旅行风格"
+    },
+    "title": {
+      "en": "All Tours",
+      "th": "ทัวร์ทั้งหมด",
+      "zh": "所有旅游"
+    },
+    "subtitle": {
+      "en": "Explore your travel style",
+      "th": "ค้นพบรูปแบบการเดินทางที่ใช่สำหรับคุณ",
+      "zh": "探索属于您的旅行方式"
+    }
+  },
+  "services_header": {
+    "eyebrow": {
+      "en": "OUR SERVICES",
+      "th": "บริการของเรา",
+      "zh": "我们的服务"
+    },
+    "title": {
+      "en": "Services Beyond Tours",
+      "th": "บริการที่มากกว่าการท่องเที่ยว",
+      "zh": "旅游之外的服务"
+    },
+    "subtitle": {
+      "en": "Flexible and professional services designed to make your journey seamless.",
+      "th": "บริการที่ยืดหยุ่นและเป็นมืออาชีพ เพื่อให้ทุกการเดินทางสะดวกสบายและราบรื่น",
+      "zh": "提供专业而灵活的服务，让您的旅程更加轻松、舒适。"
+    }
+  },
+  "service_01": {
+    "number": "01",
+    "tag": {
+      "en": "TRANSFER",
+      "th": "บริการรับส่ง",
+      "zh": "接送服务"
+    },
+    "title": {
+      "en": "Airport & VIP Transfer",
+      "th": "บริการรับส่งสนามบินและวีไอพี",
+      "zh": "接送服务"
+    },
+    "description": {
+      "en": "Airport and hotel transfers, luxury VIP transfers, executive lounge and VIP arrival & departure services.",
+      "th": "บริการรับส่งสนามบินและโรงแรม รถรับส่งวีไอพี เลานจ์สำหรับผู้บริหาร และบริการต้อนรับหรือส่งผู้โดยสารวีไอพี",
+      "zh": "提供机场及酒店接送、豪华 VIP 接送、行政贵宾休息室以及 VIP 接机和送机服务。"
+    },
+    "features_en": [
+      "Airport & Hotel",
+      "Luxury VIP",
+      "Executive Lounge"
+    ],
+    "features_th": [
+      "สนามบินและโรงแรม",
+      "รถรับส่งวีไอพี",
+      "เลานจ์ผู้บริหาร"
+    ],
+    "features_zh": [
+      "机场及酒店接送",
+      "豪华 VIP 接送",
+      "行政贵宾休息室"
+    ],
+    "image_url": ""
+  },
+  "service_02": {
+    "number": "02",
+    "tag": {
+      "en": "YACHT & BOAT",
+      "th": "เช่าเหมาลำเรือและเรือยอชต์",
+      "zh": "游艇及船只包租"
+    },
+    "title": {
+      "en": "Yacht / Boat Charter",
+      "th": "บริการเช่าเหมาลำเรือและเรือยอชต์",
+      "zh": "游艇 / 船只包租"
+    },
+    "description": {
+      "en": "Private yacht and boat charter experiences designed for flexible and memorable journeys across Thailand.",
+      "th": "สัมผัสประสบการณ์ล่องเรือส่วนตัวที่ยืดหยุ่นและสะดวกสบาย เพื่อสำรวจทะเลไทยในแบบของคุณ",
+      "zh": "提供私人游艇及船只包租服务，以更加灵活、舒适的方式探索泰国海域。"
+    },
+    "features_en": [
+      "Motor Yacht",
+      "Sailing Yacht",
+      "Super Yacht",
+      "Power Catamaran"
+    ],
+    "features_th": [
+      "เรือยอชต์เครื่องยนต์",
+      "เรือใบยอชต์",
+      "เรือยอชต์หรู",
+      "เรือคาตามารัน"
+    ],
+    "features_zh": [
+      "摩托游艇",
+      "帆船",
+      "豪华游艇",
+      "双体船"
+    ],
+    "image_url": ""
+  },
+  "service_03": {
+    "number": "03",
+    "tag": {
+      "en": "WORKSHOP & EXPERIENCES",
+      "th": "เวิร์กช็อปและกิจกรรมประสบการณ์",
+      "zh": "工作坊与体验活动"
+    },
+    "title": {
+      "en": "Workshop",
+      "th": "เวิร์กช็อป",
+      "zh": "工作坊"
+    },
+    "description": {
+      "en": "Discover workshops, cultural activities and meaningful local experiences across Thailand.",
+      "th": "ค้นพบเวิร์กช็อป กิจกรรมทางวัฒนธรรม และประสบการณ์ท้องถิ่นที่มีความหมายทั่วประเทศไทย",
+      "zh": "探索泰国各地的工作坊、文化活动及特色体验。"
+    },
+    "features_en": [
+      "Cultural Experiences",
+      "Community Activities",
+      "Creative Workshops"
+    ],
+    "features_th": [
+      "ประสบการณ์วัฒนธรรม",
+      "กิจกรรมชุมชน",
+      "เวิร์กช็อปสร้างสรรค์"
+    ],
+    "features_zh": [
+      "文化体验",
+      "社区活动",
+      "创意工作坊"
+    ],
+    "image_url": ""
+  },
+  "mice": {
+    "eyebrow": {
+      "en": "MICE",
+      "th": "การประชุมและการท่องเที่ยวเพื่อเป็นรางวัล",
+      "zh": "会议与奖励旅游"
+    },
+    "title": {
+      "en": "Meeting & Incentive",
+      "th": "การประชุมและการท่องเที่ยวเพื่อเป็นรางวัล",
+      "zh": "会议与奖励旅游"
+    },
+    "description_1": {
+      "en": "Experience eco-luxury with Silver Hawk Group through sustainable, impactful and community-driven meeting and incentive experiences in Thailand.",
+      "th": "สัมผัสบริการระดับพรีเมียมที่ผสานความยั่งยืนและชุมชน ผ่านการประชุมและการเดินทางเพื่อสร้างแรงจูงใจในประเทศไทย",
+      "zh": "通过可持续、有影响力并以社区为导向的会议与奖励旅游体验，探索 Silver Hawk Group 的生态奢华服务。"
+    },
+    "description_2": {
+      "en": "We create Meetings, Incentives, Conferences and Events that integrate luxury, sustainability and local community experiences.",
+      "th": "เราออกแบบการประชุม การเดินทางเพื่อเป็นรางวัล การประชุมสัมมนา และกิจกรรมต่าง ๆ โดยผสานความหรูหรา ความยั่งยืน และประสบการณ์จากชุมชนท้องถิ่น",
+      "zh": "我们创造的会议、奖励旅游、会议和活动，融合了奢华、可持续性和当地社区体验。"
+    },
+    "image_url": "/images/mice/meeting-incentive.jpg"
+  },
+  "corporate_training": {
+    "eyebrow": {
+      "en": "CORPORATE TRAINING",
+      "th": "การฝึกอบรมองค์กร",
+      "zh": "企业培训"
+    },
+    "title": {
+      "en": "Corporate Training & Human Resource Development",
+      "th": "การฝึกอบรมองค์กรและการพัฒนาทรัพยากรบุคคล",
+      "zh": "企业培训与人力资源开发"
+    },
+    "description_1": {
+      "en": "Silver Hawk Group provides made-to-order corporate training programs tailored to the hospitality, travel, and customer service industries.",
+      "th": "Silver Hawk Group จัดหลักสูตรฝึกอบรมองค์กรที่ออกแบบเฉพาะสำหรับธุรกิจโรงแรม การท่องเที่ยว และงานบริการลูกค้า",
+      "zh": "Silver Hawk Group 提供量身定制的企业培训课程，专为酒店、旅游及客户服务行业而设计。"
+    },
+    "description_2": {
+      "en": "Our programs focus on customer experience, sustainability, responsible service and carbon-neutral operations.",
+      "th": "หลักสูตรของเราเน้นประสบการณ์ลูกค้า ความยั่งยืน การบริการอย่างรับผิดชอบ และการดำเนินงานที่มุ่งสู่ความเป็นกลางทางคาร์บอน",
+      "zh": "我们的项目专注于客户体验、可持续发展、负责任的服务和碳中和运营。"
+    },
+    "image_url": "/images/corporate-training.jpg"
+  },
+  "why_choose_us": {
+    "title": {
+      "en": "Why Choose Us?",
+      "th": "ทำไมต้องเลือกเรา",
+      "zh": "为什么选择我们？"
+    },
+    "features": [
+      {
+        "title": {
+          "en": "Regenerative Travel",
+          "th": "การท่องเที่ยวเชิงฟื้นฟู",
+          "zh": "永续再生旅行"
+        },
+        "description": {
+          "en": "Positive impact for local marine ecosystems and island communities.",
+          "th": "สร้างผลลัพธ์เชิงบวกต่อระบบนิเวศทางทะเลและชุมชนเกาะท้องถิ่น",
+          "zh": "为当地海洋生态系统与海岛社区创造积极深远的影响。"
+        }
+      },
+      {
+        "title": {
+          "en": "Expert Local Guides",
+          "th": "มัคคุเทศก์ท้องถิ่นผู้เชี่ยวชาญ",
+          "zh": "资深本地向导"
+        },
+        "description": {
+          "en": "Passionate, licensed bilingual storytellers sharing authentic culture.",
+          "th": "ผู้เล่าเรื่องสองภาษาที่ได้รับใบอนุญาต ถ่ายทอดวัฒนธรรมแท้จริงด้วยหัวใจ",
+          "zh": "持牌资深双语向导，带您沉浸式领略最真实的在地文化与风景。"
+        }
+      },
+      {
+        "title": {
+          "en": "Bespoke & Seamless",
+          "th": "ออกแบบเฉพาะและไร้รอยต่อ",
+          "zh": "专属定制，全程无忧"
+        },
+        "description": {
+          "en": "VIP concierge, transparent all-inclusive pricing, and flexible care.",
+          "th": "บริการผู้ช่วยส่วนตัว ราคาโปร่งใสรวมทุกอย่าง และการดูแลที่ยืดหยุ่น",
+          "zh": "全方位VIP管家服务，透明全包无隐形消费，行程灵活随心。"
+        }
+      },
+      {
+        "title": {
+          "en": "Certified Safety & 24/7 Care",
+          "th": "มาตรฐานความปลอดภัยและการดูแล 24 ชม.",
+          "zh": "全方位安全保障与24小时专属服务"
+        },
+        "description": {
+          "en": "Comprehensive accident insurance, certified marine equipment, and round-the-clock guest support.",
+          "th": "ประกันภัยอุบัติเหตุครอบคลุม อุปกรณ์มาตรฐานสากล และทีมงานพร้อมดูแลเคียงข้างตลอด 24 ชั่วโมง",
+          "zh": "全额旅游意外险覆盖、严选国际标准装备与全天候专属管家贴心守护。"
+        },
+        "icon": "shield"
+      }
+    ]
+  },
+  "last_updated": "2026-10-26",
+  "about": {
+    "title": {
+      "en": "About Silver Hawk Group",
+      "th": "เกี่ยวกับ ซิลเวอร์ ฮอว์ก กรุ๊ป",
+      "zh": "关于 Silver Hawk Group"
+    },
+    "description": {
+      "en": "SILVER HAWK GROUP is dedicated to providing high-quality travel experiences throughout Thailand.",
+      "th": "SILVER HAWK GROUP มุ่งมั่นสร้างประสบการณ์การเดินทางคุณภาพสูงทั่วประเทศไทย",
+      "zh": "SILVER HAWK GROUP 致力于为客户提供高品质的泰国旅游体验。"
+    }
+  }
+}

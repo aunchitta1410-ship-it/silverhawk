@@ -1,0 +1,119 @@
+[
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Deleted tour category: Luxury Wellness & Spa",
+    "id": "aud_1792948228175_on5m0",
+    "timestamp": "2026-10-25T17:10:28.175Z"
+  },
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Deleted subcategory \"Royal Thai Herbal Massage\" from category \"Luxury Wellness & Spa\"",
+    "id": "aud_1792948223965_tw7vw",
+    "timestamp": "2026-10-25T17:10:23.965Z"
+  },
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Renamed tour category from \"Wellness & Spa\" to \"Luxury Wellness & Spa\"",
+    "id": "aud_1792948219883_dyang",
+    "timestamp": "2026-10-25T17:10:19.883Z"
+  },
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Renamed subcategory in \"Wellness & Spa\" from \"Thai Herbal Massage\" to \"Royal Thai Herbal Massage\"",
+    "id": "aud_1792948206330_eayee",
+    "timestamp": "2026-10-25T17:10:06.330Z"
+  },
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Added subcategory \"Thai Herbal Massage\" to category \"Wellness & Spa\"",
+    "id": "aud_1792948201440_5tz87",
+    "timestamp": "2026-10-25T17:10:01.440Z"
+  },
+  {
+    "action": "UPDATE_TOUR",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "tour",
+    "targetId": 0,
+    "description": "Created new tour category: Wellness & Spa",
+    "id": "aud_1792948197186_36w97",
+    "timestamp": "2026-10-25T17:09:57.186Z"
+  },
+  {
+    "action": "UPDATE_HOMEPAGE_CMS",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "system",
+    "targetId": 0,
+    "description": "Updated Homepage CMS content and media in 3 languages",
+    "id": "aud_1792947388707_p2pxa",
+    "timestamp": "2026-10-25T16:56:28.707Z"
+  },
+  {
+    "action": "UPDATE_HOMEPAGE_CMS",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "system",
+    "targetId": 0,
+    "description": "Updated Homepage CMS content and media in 3 languages",
+    "id": "aud_1792947369370_snnsf",
+    "timestamp": "2026-10-25T16:56:09.371Z"
+  },
+  {
+    "action": "UPDATE_HOMEPAGE_CMS",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "system",
+    "targetId": 0,
+    "description": "Updated Homepage CMS content and media in 3 languages",
+    "id": "aud_1792947022704_d2g3b",
+    "timestamp": "2026-10-25T16:50:22.704Z"
+  },
+  {
+    "action": "UPDATE_HOMEPAGE_CMS",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "system",
+    "targetId": 0,
+    "description": "Updated Homepage CMS content and media in 3 languages",
+    "id": "aud_1792946939111_9t48a",
+    "timestamp": "2026-10-25T16:48:59.111Z"
+  },
+  {
+    "action": "REJECT_PAYMENT_SLIP",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "payment",
+    "targetId": 123,
+    "description": "Rejected payment receipt for booking #123: Slip image unreadable or transaction reference not found",
+    "id": "aud_1792938698812_0r7b4",
+    "timestamp": "2026-10-25T14:31:38.812Z"
+  },
+  {
+    "action": "VERIFY_PAYMENT_SLIP",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "payment",
+    "targetId": 123,
+    "description": "Verified and confirmed PromptPay transaction receipt for booking #123",
+    "id": "aud_1792938693468_vfu91",
+    "timestamp": "2026-10-25T14:31:33.468Z"
+  },
+  {
+    "action": "APPROVE_BOOKING",
+    "adminEmail": "admin@silverhawk.com",
+    "targetType": "booking",
+    "targetId": 91,
+    "description": "Approved booking #33-20261031-UD2E",
+    "id": "aud_1792855182762_5rhbs",
+    "timestamp": "2026-10-24T15:19:42.762Z"
+  }
+]

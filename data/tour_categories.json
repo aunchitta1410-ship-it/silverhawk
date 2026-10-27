@@ -1,0 +1,46 @@
+{
+  "Island & Marine": [
+    "One Day Trip",
+    "Unmissable Island",
+    "Speedboat Tour",
+    "Catamaran Cruise",
+    "Sunset Cruise",
+    "Snorkeling & Diving"
+  ],
+  "Adventure & Eco": [
+    "ATV Riding",
+    "Zipline & Canopy",
+    "Elephant Sanctuary",
+    "Jungle Trekking",
+    "Regenerative & Sustainable",
+    "Education Camp"
+  ],
+  "Cultural & Community": [
+    "Community Tour",
+    "Heritage Walk",
+    "Cooking Class & Workshop",
+    "Local Village Life"
+  ],
+  "Transfers & Charters": [
+    "Airport Transfer",
+    "Hotel Transfer",
+    "Private Yacht Charter",
+    "VIP Luxury Van"
+  ],
+  "Tickets & Attractions": [
+    "Theme & Water Parks",
+    "Cultural Shows & Cabaret",
+    "Animal & Wildlife Sanctuaries",
+    "Museums & Art Galleries",
+    "Observation Decks & Viewpoints",
+    "Dinner Cruises & Shows"
+  ],
+  "Ticket Only": [
+    "Theme & Water Parks",
+    "Cultural Shows & Cabaret",
+    "Animal & Wildlife Sanctuaries",
+    "Museums & Art Galleries",
+    "Observation Decks & Viewpoints",
+    "Dinner Cruises & Shows"
+  ]
+}

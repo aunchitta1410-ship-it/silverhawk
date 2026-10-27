@@ -1,0 +1,17 @@
+{
+  "promptpay_enabled": true,
+  "promptpay_qr_image_url": "/images/promptpay-qr.svg",
+  "promptpay_id": "063-606-4199",
+  "promptpay_account_name": "Silver Hawk Group Co., Ltd.",
+  "promptpay_notes": "Scan QR with any Thai Mobile Banking app and upload your transfer slip.",
+  "bank_transfer_enabled": true,
+  "bank_name": "Kasikornbank (KBank)",
+  "bank_code": "KBANK",
+  "bank_branch": "Phuket Town Branch",
+  "account_name": "Silver Hawk Group Co., Ltd.",
+  "account_number": "045-8-91234-0",
+  "swift_code": "KASITHBK",
+  "bank_instructions": "Please transfer the exact booking amount to the account above and upload the transfer slip below for verification.",
+  "updated_at": "2026-10-26T12:00:00.000Z",
+  "updated_by": "system"
+}

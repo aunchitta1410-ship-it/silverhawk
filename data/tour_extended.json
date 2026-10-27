@@ -1,0 +1,2838 @@
+{
+  "1": {
+    "tourId": 1,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "tour_excludes_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "tour_excludes_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "tour_excludes_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "tour_excludes_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "tour_excludes_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "tour_includes_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "tour_includes_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "tour_includes_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "tour_includes_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "tour_includes_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "tour_includes_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "tour_includes_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "what_to_bring_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "what_to_bring_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "what_to_bring_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "what_to_bring_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "what_to_bring_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "what_to_bring_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate"
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "not_recommended_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "not_recommended_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "not_recommended_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "not_recommended_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "not_recommended_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "charges_extra_pickup_fee": false,
+    "tour_order": 1,
+    "custom_tour_id": "I-One-1"
+  },
+  "2": {
+    "tourId": 2,
+    "category": "Ticket Only",
+    "tour_type": "Ticket Only",
+    "subcategory": "Cultural Shows & Cabaret",
+    "ticket_types": [
+      {
+        "id": "carnival_buffet",
+        "price": 2500,
+        "adult_price": 2500,
+        "child_price": 2400,
+        "name_en": "Park Admission & Buffet Dinner",
+        "name_th": "บัตรเข้าชม + บุฟเฟต์อาหารค่ำ",
+        "name_zh": "入园门票 + 豪华自助晚宴",
+        "description_en": "Admission to Carnival Fun Fair, River Carnival Parade, Kingdom of Lights & Buffet Dinner (Child: Height 101-140 cm)",
+        "description_th": "บัตรเข้าชมเต็มรูปแบบพร้อมรับประทานบุฟเฟต์นานาชาติสุดอลังการ (เด็ก: ส่วนสูง 101-140 ซม.)",
+        "description_zh": "含全区入场门票及三千座席国际豪华自助晚餐（儿童：身高101-140厘米）"
+      },
+      {
+        "id": "carnival_admission",
+        "price": 2100,
+        "adult_price": 2100,
+        "child_price": 2100,
+        "name_en": "Park Admission Only",
+        "name_th": "บัตรเข้าชมอย่างเดียว",
+        "name_zh": "仅入园门票",
+        "description_en": "Admission to Carnival Fun Fair, River Carnival Parade & Kingdom of Lights (Child: Height 101-140 cm)",
+        "description_th": "บัตรเข้าชมโซนคาร์นิวัล ชมขบวนพาเหรด และอาณาจักรแสงไฟ (เด็ก: ส่วนสูง 101-140 ซม.)",
+        "description_zh": "狂欢嘉年华园游区、河之狂欢游行及光之王国门票（儿童：身高101-140厘米）"
+      },
+      {
+        "id": "carnival_royal_seat",
+        "price": 2800,
+        "adult_price": 2800,
+        "child_price": 2800,
+        "name_en": "Royal Seat Admission Pass",
+        "name_th": "บัตรเข้าชมที่นั่งรอยัลซีต (มุมมองดีที่สุด)",
+        "name_zh": "皇家特等贵宾席门票（全场正中绝佳视野）",
+        "description_en": "Prime center stage theater seating for the River Carnival Parade",
+        "description_th": "ที่นั่งแถวกลางเวทีเพื่อรับชมพาเหรดที่ตระการตาที่สุด",
+        "description_zh": "剧场中央专属最佳观赏坐席"
+      },
+      {
+        "id": "carnival_royal_buffet",
+        "price": 3200,
+        "adult_price": 3200,
+        "child_price": 3100,
+        "name_en": "Royal Seat + Royal Buffet Dinner Combo",
+        "name_th": "คอมโบที่นั่งรอยัลซีต + บุฟเฟต์นานาชาติ",
+        "name_zh": "皇家贵宾席 + 天堂鸟自助晚宴至尊套票",
+        "description_en": "The complete VIP experience with best theater seating and royal buffet",
+        "description_th": "แพ็กเกจสมบูรณ์แบบระดับวีไอพี ที่นั่งดีที่สุดและบุฟเฟต์มื้อค่ำ",
+        "description_zh": "尊享全场最佳观演席位与国际自助晚宴至尊体验"
+      }
+    ],
+    "custom_fields": [
+      {
+        "id": "cf_hours",
+        "name_en": "Park Operating Hours",
+        "name_th": "เวลาเปิดทำการ",
+        "name_zh": "开园营业时间",
+        "value_en": "05:30 PM – 11:30 PM (Selected Operating Days)",
+        "value_th": "17:30 น. – 23:30 น. (วันเปิดให้บริการตามรอบ)",
+        "value_zh": "17:30 – 23:30（按指定营业日开放）"
+      },
+      {
+        "id": "cf_showtime",
+        "name_en": "River Carnival Parade Showtime",
+        "name_th": "รอบการแสดงขบวนพาเหรดริเวอร์คาร์นิวัล",
+        "name_zh": "河之狂欢盛大游行演出时间",
+        "value_en": "08:30 PM (Duration: 50 minutes)",
+        "value_th": "20:30 น. (ระยะเวลาการแสดง 50 นาที)",
+        "value_zh": "20:30（表演时长50分钟）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Hotel roundtrip transfer (unless transfer addon is selected)",
+        "id": "exc_carnival_1",
+        "th": "บริการรถรับ-ส่งโรงแรม (เว้นแต่จะเลือกบริการเสริม)",
+        "zh": "酒店往返接送（除非另选接送附加项）"
+      },
+      {
+        "en": "Carnival carnival-game tokens and carnival market retail souvenirs",
+        "id": "exc_carnival_2",
+        "th": "เหรียญเล่นเกมงานวัด และสินค้าของที่ระลึกในโซนร้านค้า",
+        "zh": "嘉年华摊位游戏代币及纪念品消费"
+      },
+      {
+        "en": "Alcoholic beverages",
+        "id": "exc_carnival_3",
+        "th": "เครื่องดื่มแอลกอฮอล์",
+        "zh": "酒精类饮品"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Official Carnival Magic e-admission voucher",
+        "id": "inc_carnival_1",
+        "th": "บัตรเข้าชมคาร์นิวัล เมจิก รูปแบบดิจิทัล",
+        "zh": "嘉年华魔法乐园官方电子门票确认单"
+      },
+      {
+        "en": "Kingdom of Lights illumination walk-through",
+        "id": "inc_carnival_2",
+        "th": "เข้าชมอาณาจักรไฟแสงสี Kingdom of Lights",
+        "zh": "探索漫步「光之王国」超大型梦幻灯光秀"
+      },
+      {
+        "en": "Carnival Fun Fair & Festival Parade viewing",
+        "id": "inc_carnival_3",
+        "th": "ชมขบวนพาเหรดคาร์นิวัลสุดยิ่งใหญ่ Carnival Fun Fair",
+        "zh": "观赏室内狂欢节盛大游行表演"
+      },
+      {
+        "en": "All applicable taxes and park entry fees",
+        "id": "inc_carnival_4",
+        "th": "รวมภาษีและค่าเข้าชมสถานที่เรียบร้อยแล้ว",
+        "zh": "包含所有适用税费与入园门票"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Digital E-ticket / Confirmation QR code on mobile phone",
+        "id": "wtb_carnival_1",
+        "th": "อีทิกเก็ตหรือคิวอาร์โค้ดในโทรศัพท์มือถือ",
+        "zh": "手机出示电子凭证或二维码"
+      },
+      {
+        "en": "Passport or photo ID for age verification",
+        "id": "wtb_carnival_2",
+        "th": "หนังสือเดินทางหรือบัตรประชาชนสำหรับยืนยันตัวตน",
+        "zh": "护照或有效身份证件"
+      },
+      {
+        "en": "Fully charged smartphone or camera for magical light photo-ops",
+        "id": "wtb_carnival_3",
+        "th": "กล้องถ่ายรูปหรือสมาร์ตโฟนพร้อมแบตเตอรี่เต็มสำหรับถ่ายภาพแสงไฟ",
+        "zh": "充足电量的手机或相机拍摄梦幻灯光照片"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per admission pass",
+      "show_times": [
+        "17:30 - Carnival Fun Fair & Gates Open",
+        "19:30 - Kingdom of Lights Illumination",
+        "20:30 - River Carnival Parade"
+      ],
+      "venue_address": "999 Moo 3, Kamala, Kathu, Phuket 83150 Thailand",
+      "custom_details": [
+        {
+          "id": "td_t2_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง",
+          "name_zh": "景点场馆地址",
+          "value_en": "999 Moo 3, Kamala, Kathu, Phuket 83150 Thailand",
+          "value_th": "999 หมู่ 3 กมลา กะทู้ ภูเก็ต 83150",
+          "value_zh": "999 Moo 3, Kamala, Kathu, Phuket 83150"
+        },
+        {
+          "id": "td_t2_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票入园处",
+          "value_en": "Main Entrance Turnstiles & Information Counter",
+          "value_th": "ทางเข้าประตูหมุนและเคาน์เตอร์ข้อมูลหลัก",
+          "value_zh": "主入口闸机与游客咨询中心"
+        },
+        {
+          "id": "td_t2_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดเข้าชม",
+          "name_zh": "营业开放时间",
+          "value_en": "05:30 PM – 11:30 PM (Parade starts 20:30)",
+          "value_th": "17:30 น. – 23:30 น. (ขบวนพาเหรดเริ่ม 20:30 น.)",
+          "value_zh": "17:30 – 23:30（游行表演 20:30 开始）"
+        },
+        {
+          "id": "td_t2_gates",
+          "name_en": "Gates Open Time",
+          "name_th": "เวลาเปิดประตู",
+          "name_zh": "开园入闸时间",
+          "value_en": "17:30 (Kingdom of Lights open all evening)",
+          "value_th": "17:30 น. (โซนเมืองไฟเปิดให้เข้าชมตลอดค่ำคืน)",
+          "value_zh": "17:30（光之王国全晚开放漫步）"
+        },
+        {
+          "id": "td_t2_seating",
+          "name_en": "Seating Category / Zone",
+          "name_th": "ประเภทที่นั่ง",
+          "name_zh": "坐席类别与分区",
+          "value_en": "Standard Admission / Royal Seat Pass Available",
+          "value_th": "บัตรที่นั่งมาตรฐาน / ที่นั่งรอยัลซีตพิเศษ",
+          "value_zh": "标准观演席 / 皇家特等贵宾席"
+        },
+        {
+          "id": "td_t2_duration",
+          "name_en": "Show Duration",
+          "name_th": "ระยะเวลาการแสดง",
+          "name_zh": "演出演出时长",
+          "value_en": "70 Minutes Grand River Carnival Parade",
+          "value_th": "ขบวนพาเหรดริเวอร์คาร์นิวัล 70 นาที",
+          "value_zh": "70分钟室内水上嘉年华盛大游行"
+        },
+        {
+          "id": "td_t2_dress",
+          "name_en": "Dress Code",
+          "name_th": "การแต่งกาย",
+          "name_zh": "着装建议",
+          "value_en": "Casual / Smart Casual (air-conditioned indoor theater)",
+          "value_th": "ชุดสุภาพลำลอง (โรงละครติดเครื่องปรับอากาศ)",
+          "value_zh": "休闲便服（室内全空调剧场，建议备薄外套）"
+        },
+        {
+          "id": "td_t2_child",
+          "name_en": "Child & Infant Policy",
+          "name_th": "นโยบายเด็กและทารก",
+          "name_zh": "儿童与免票政策",
+          "value_en": "Infants under 100 cm enter free without separate seat",
+          "value_th": "เด็กส่วนสูงต่ำกว่า 100 ซม. เข้าฟรี (นั่งตักผู้ปกครอง)",
+          "value_zh": "身高100厘米以下幼儿免票（不占独立座位）"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid only on the booked date and parade session",
+      "admission_hours": "05:30 PM – 11:30 PM",
+      "redemption_point": "Ticketing & Information Center / Turnstile Gate at Carnival Magic Main Entrance",
+      "daily_shows_count": 3,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Guests sensitive to strobe lighting or loud sound effects",
+        "id": "nr_strobe",
+        "th": "ผู้ที่ไวต่อแสงแฟลช/แสงไฟกระพริบ หรือเสียงดังเอฟเฟกต์",
+        "zh": "对频闪强光或大音量音效敏感者"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_van_transfer",
+        "price": 400,
+        "name_en": "Roundtrip Hotel Shared Van Transfer",
+        "name_th": "รถตู้รับ-ส่งไปกลับจากโรงแรม",
+        "name_zh": "往返拼车接送服务",
+        "price_type": "per_person",
+        "description_en": "Comfortable air-conditioned transfer from Phuket hotels",
+        "description_th": "บริการรถตู้ปรับอากาศรับ-ส่งจากโรงแรมในภูเก็ต",
+        "description_zh": "普吉岛全岛酒店空调面包车往返接送"
+      }
+    ],
+    "custom_booking_fields": [
+      {
+        "id": "cbf_visit_date",
+        "label_en": "Preferred Show Date",
+        "label_th": "วันที่ต้องการเข้าชม",
+        "label_zh": "入园观演日期",
+        "required": true,
+        "field_type": "text",
+        "placeholder_en": "YYYY-MM-DD"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 1,
+    "custom_tour_id": "T-Cul-1"
+  },
+  "3": {
+    "tourId": 3,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "ticket_types": [],
+    "custom_fields": [
+      {
+        "id": "cf_guide",
+        "name_en": "Tour Guide Language",
+        "name_th": "ภาษาของไกด์นำเที่ยว",
+        "name_zh": "导游语言",
+        "value_en": "English & Chinese (Professional Licensed)",
+        "value_th": "อังกฤษและจีน (มีใบอนุญาตวิชาชีพ)",
+        "value_zh": "中文与英文（专业持证导游）"
+      },
+      {
+        "id": "cf_departure",
+        "name_en": "Departure Pier",
+        "name_th": "ท่าเรือต้นทาง",
+        "name_zh": "出发码头",
+        "value_en": "Royal Phuket Marina (Pier 4)",
+        "value_th": "รอยัล ภูเก็ต มารีน่า (ท่าเทียบเรือ 4)",
+        "value_zh": "普吉皇家游艇码头（4号码头）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "exc_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "exc_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "exc_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "exc_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "exc_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "inc_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "inc_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "inc_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "inc_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "inc_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "inc_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "inc_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "wtb_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "wtb_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "wtb_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "wtb_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "wtb_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "wtb_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per ticket",
+      "show_times": [
+        "17:30",
+        "19:30",
+        "20:30"
+      ],
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "custom_details": [
+        {
+          "id": "td_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง / ทางเข้า",
+          "name_zh": "景点与场馆地址",
+          "value_en": "Attraction Ticket Counter, Phuket"
+        },
+        {
+          "id": "td_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票与入园处",
+          "value_en": "Present digital e-voucher at Ticket Gate"
+        },
+        {
+          "id": "td_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดให้เข้าชม",
+          "name_zh": "开园及营业时间",
+          "value_en": "09:00 - 18:00 (Daily)"
+        },
+        {
+          "id": "td_validity",
+          "name_en": "Ticket Validity",
+          "name_th": "อายุการใช้งานบัตร",
+          "name_zh": "门票有效期",
+          "value_en": "Valid only on selected date during operating hours"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate",
+      "daily_shows_count": 3,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "nr_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "nr_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "nr_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "nr_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "nr_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_snorkel",
+        "price": 250,
+        "name_en": "Full-Face Snorkel Mask Rental",
+        "name_th": "เช่าหน้ากากดำน้ำแบบเต็มหน้า",
+        "name_zh": "全干式面罩呼吸管租赁",
+        "price_type": "per_person",
+        "description_en": "180° panoramic view with anti-fog technology",
+        "description_th": "มุมมอง 180 องศา พร้อมเทคโนโลยีป้องกันฝ้า",
+        "description_zh": "180度全景视野，专业防雾防水"
+      },
+      {
+        "id": "addon_lunch",
+        "price": 590,
+        "name_en": "Seafood & Lobster Buffet Upgrade",
+        "name_th": "อัปเกรดบุฟเฟต์ซีฟู้ดและกุ้งมังกร",
+        "name_zh": "升级海鲜与龙虾自助盛宴",
+        "price_type": "per_person",
+        "description_en": "Premium fresh grilled seafood feast on the private beach",
+        "description_th": "อิ่มอร่อยกับซีฟู้ดย่างสดใหม่ริมชายหาดส่วนตัว",
+        "description_zh": "在私人海滩享用现烤新鲜海鲜大餐"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "custom_booking_fields": [
+      {
+        "id": "cbf_diet",
+        "label_en": "Dietary Preferences / Food Allergies",
+        "label_th": "ความต้องการด้านอาหาร / การแพ้อาหาร",
+        "label_zh": "饮食偏好 / 食物过敏",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., Vegetarian, Halal, No Seafood, Nut Allergy"
+      },
+      {
+        "id": "cbf_emergency",
+        "label_en": "Emergency Contact Name & Phone",
+        "label_th": "ชื่อและเบอร์โทรติดต่อฉุกเฉิน",
+        "label_zh": "紧急联系人姓名与电话",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., +66 81 234 5678 (WhatsApp / Line)"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 2,
+    "custom_tour_id": "I-One-2"
+  },
+  "32": {
+    "tourId": 32,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "tour_excludes_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "tour_excludes_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "tour_excludes_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "tour_excludes_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "tour_excludes_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "tour_includes_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "tour_includes_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "tour_includes_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "tour_includes_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "tour_includes_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "tour_includes_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "tour_includes_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "what_to_bring_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "what_to_bring_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "what_to_bring_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "what_to_bring_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "what_to_bring_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "what_to_bring_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate"
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "not_recommended_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "not_recommended_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "not_recommended_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "not_recommended_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "not_recommended_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "charges_extra_pickup_fee": false,
+    "tour_order": 3,
+    "custom_tour_id": "I-One-3"
+  },
+  "33": {
+    "tourId": 33,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "ticket_types": [],
+    "custom_fields": [
+      {
+        "id": "cf_guide",
+        "name_en": "Tour Guide Language",
+        "name_th": "ภาษาของไกด์นำเที่ยว",
+        "name_zh": "导游语言",
+        "value_en": "English & Chinese (Professional Licensed)",
+        "value_th": "อังกฤษและจีน (มีใบอนุญาตวิชาชีพ)",
+        "value_zh": "中文与英文（专业持证导游）"
+      },
+      {
+        "id": "cf_departure",
+        "name_en": "Departure Pier",
+        "name_th": "ท่าเรือต้นทาง",
+        "name_zh": "出发码头",
+        "value_en": "Royal Phuket Marina (Pier 4)",
+        "value_th": "รอยัล ภูเก็ต มารีน่า (ท่าเทียบเรือ 4)",
+        "value_zh": "普吉皇家游艇码头（4号码头）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "exc_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "exc_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "exc_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "exc_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "exc_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "inc_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "inc_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "inc_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "inc_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "inc_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "inc_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "inc_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "wtb_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "wtb_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "wtb_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "wtb_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "wtb_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "wtb_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per ticket",
+      "show_times": [
+        "17:30",
+        "19:30",
+        "20:30"
+      ],
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "custom_details": [
+        {
+          "id": "td_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง / ทางเข้า",
+          "name_zh": "景点与场馆地址",
+          "value_en": "Attraction Ticket Counter, Phuket"
+        },
+        {
+          "id": "td_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票与入园处",
+          "value_en": "Present digital e-voucher at Ticket Gate"
+        },
+        {
+          "id": "td_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดให้เข้าชม",
+          "name_zh": "开园及营业时间",
+          "value_en": "09:00 - 18:00 (Daily)"
+        },
+        {
+          "id": "td_validity",
+          "name_en": "Ticket Validity",
+          "name_th": "อายุการใช้งานบัตร",
+          "name_zh": "门票有效期",
+          "value_en": "Valid only on selected date during operating hours"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate",
+      "daily_shows_count": 3,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "nr_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "nr_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "nr_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "nr_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "nr_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_snorkel",
+        "price": 250,
+        "name_en": "Full-Face Snorkel Mask Rental",
+        "name_th": "เช่าหน้ากากดำน้ำแบบเต็มหน้า",
+        "name_zh": "全干式面罩呼吸管租赁",
+        "price_type": "per_person",
+        "description_en": "180° panoramic view with anti-fog technology",
+        "description_th": "มุมมอง 180 องศา พร้อมเทคโนโลยีป้องกันฝ้า",
+        "description_zh": "180度全景视野，专业防雾防水"
+      },
+      {
+        "id": "addon_lunch",
+        "price": 590,
+        "name_en": "Seafood & Lobster Buffet Upgrade",
+        "name_th": "อัปเกรดบุฟเฟต์ซีฟู้ดและกุ้งมังกร",
+        "name_zh": "升级海鲜与龙虾自助盛宴",
+        "price_type": "per_person",
+        "description_en": "Premium fresh grilled seafood feast on the private beach",
+        "description_th": "อิ่มอร่อยกับซีฟู้ดย่างสดใหม่ริมชายหาดส่วนตัว",
+        "description_zh": "在私人海滩享用现烤新鲜海鲜大餐"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "custom_booking_fields": [
+      {
+        "id": "cbf_diet",
+        "label_en": "Dietary Preferences / Food Allergies",
+        "label_th": "ความต้องการด้านอาหาร / การแพ้อาหาร",
+        "label_zh": "饮食偏好 / 食物过敏",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., Vegetarian, Halal, No Seafood, Nut Allergy"
+      },
+      {
+        "id": "cbf_emergency",
+        "label_en": "Emergency Contact Name & Phone",
+        "label_th": "ชื่อและเบอร์โทรติดต่อฉุกเฉิน",
+        "label_zh": "紧急联系人姓名与电话",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., +66 81 234 5678 (WhatsApp / Line)"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 4,
+    "custom_tour_id": "I-One-4"
+  },
+  "34": {
+    "tourId": 34,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "ticket_types": [],
+    "custom_fields": [
+      {
+        "id": "cf_guide",
+        "name_en": "Tour Guide Language",
+        "name_th": "ภาษาของไกด์นำเที่ยว",
+        "name_zh": "导游语言",
+        "value_en": "English & Chinese (Professional Licensed)",
+        "value_th": "อังกฤษและจีน (มีใบอนุญาตวิชาชีพ)",
+        "value_zh": "中文与英文（专业持证导游）"
+      },
+      {
+        "id": "cf_departure",
+        "name_en": "Departure Pier",
+        "name_th": "ท่าเรือต้นทาง",
+        "name_zh": "出发码头",
+        "value_en": "Royal Phuket Marina (Pier 4)",
+        "value_th": "รอยัล ภูเก็ต มารีน่า (ท่าเทียบเรือ 4)",
+        "value_zh": "普吉皇家游艇码头（4号码头）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "exc_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "exc_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "exc_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "exc_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "exc_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "inc_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "inc_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "inc_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "inc_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "inc_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "inc_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "inc_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "wtb_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "wtb_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "wtb_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "wtb_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "wtb_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "wtb_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per ticket",
+      "show_times": [
+        "17:30",
+        "19:30",
+        "20:30"
+      ],
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "custom_details": [
+        {
+          "id": "td_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง / ทางเข้า",
+          "name_zh": "景点与场馆地址",
+          "value_en": "Attraction Ticket Counter, Phuket"
+        },
+        {
+          "id": "td_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票与入园处",
+          "value_en": "Present digital e-voucher at Ticket Gate"
+        },
+        {
+          "id": "td_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดให้เข้าชม",
+          "name_zh": "开园及营业时间",
+          "value_en": "09:00 - 18:00 (Daily)"
+        },
+        {
+          "id": "td_validity",
+          "name_en": "Ticket Validity",
+          "name_th": "อายุการใช้งานบัตร",
+          "name_zh": "门票有效期",
+          "value_en": "Valid only on selected date during operating hours"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate",
+      "daily_shows_count": 3,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "nr_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "nr_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "nr_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "nr_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "nr_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_snorkel",
+        "price": 250,
+        "name_en": "Full-Face Snorkel Mask Rental",
+        "name_th": "เช่าหน้ากากดำน้ำแบบเต็มหน้า",
+        "name_zh": "全干式面罩呼吸管租赁",
+        "price_type": "per_person",
+        "description_en": "180° panoramic view with anti-fog technology",
+        "description_th": "มุมมอง 180 องศา พร้อมเทคโนโลยีป้องกันฝ้า",
+        "description_zh": "180度全景视野，专业防雾防水"
+      },
+      {
+        "id": "addon_lunch",
+        "price": 590,
+        "name_en": "Seafood & Lobster Buffet Upgrade",
+        "name_th": "อัปเกรดบุฟเฟต์ซีฟู้ดและกุ้งมังกร",
+        "name_zh": "升级海鲜与龙虾自助盛宴",
+        "price_type": "per_person",
+        "description_en": "Premium fresh grilled seafood feast on the private beach",
+        "description_th": "อิ่มอร่อยกับซีฟู้ดย่างสดใหม่ริมชายหาดส่วนตัว",
+        "description_zh": "在私人海滩享用现烤新鲜海鲜大餐"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "custom_booking_fields": [
+      {
+        "id": "cbf_diet",
+        "label_en": "Dietary Preferences / Food Allergies",
+        "label_th": "ความต้องการด้านอาหาร / การแพ้อาหาร",
+        "label_zh": "饮食偏好 / 食物过敏",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., Vegetarian, Halal, No Seafood, Nut Allergy"
+      },
+      {
+        "id": "cbf_emergency",
+        "label_en": "Emergency Contact Name & Phone",
+        "label_th": "ชื่อและเบอร์โทรติดต่อฉุกเฉิน",
+        "label_zh": "紧急联系人姓名与电话",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., +66 81 234 5678 (WhatsApp / Line)"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 5,
+    "custom_tour_id": "I-One-5"
+  },
+  "36": {
+    "tourId": 36,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "ticket_types": [],
+    "custom_fields": [
+      {
+        "id": "cf_guide",
+        "name_en": "Tour Guide Language",
+        "name_th": "ภาษาของไกด์นำเที่ยว",
+        "name_zh": "导游语言",
+        "value_en": "English & Chinese (Professional Licensed)",
+        "value_th": "อังกฤษและจีน (มีใบอนุญาตวิชาชีพ)",
+        "value_zh": "中文与英文（专业持证导游）"
+      },
+      {
+        "id": "cf_departure",
+        "name_en": "Departure Pier",
+        "name_th": "ท่าเรือต้นทาง",
+        "name_zh": "出发码头",
+        "value_en": "Royal Phuket Marina (Pier 4)",
+        "value_th": "รอยัล ภูเก็ต มารีน่า (ท่าเทียบเรือ 4)",
+        "value_zh": "普吉皇家游艇码头（4号码头）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "exc_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "exc_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "exc_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "exc_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "exc_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "inc_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "inc_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "inc_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "inc_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "inc_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "inc_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "inc_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "wtb_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "wtb_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "wtb_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "wtb_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "wtb_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "wtb_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per ticket",
+      "show_times": [
+        "17:30",
+        "19:30",
+        "20:30"
+      ],
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "custom_details": [
+        {
+          "id": "td_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง / ทางเข้า",
+          "name_zh": "景点与场馆地址",
+          "value_en": "Attraction Ticket Counter, Phuket"
+        },
+        {
+          "id": "td_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票与入园处",
+          "value_en": "Present digital e-voucher at Ticket Gate"
+        },
+        {
+          "id": "td_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดให้เข้าชม",
+          "name_zh": "开园及营业时间",
+          "value_en": "09:00 - 18:00 (Daily)"
+        },
+        {
+          "id": "td_validity",
+          "name_en": "Ticket Validity",
+          "name_th": "อายุการใช้งานบัตร",
+          "name_zh": "门票有效期",
+          "value_en": "Valid only on selected date during operating hours"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate",
+      "daily_shows_count": 3,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "nr_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "nr_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "nr_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "nr_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "nr_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_snorkel",
+        "price": 250,
+        "name_en": "Full-Face Snorkel Mask Rental",
+        "name_th": "เช่าหน้ากากดำน้ำแบบเต็มหน้า",
+        "name_zh": "全干式面罩呼吸管租赁",
+        "price_type": "per_person",
+        "description_en": "180° panoramic view with anti-fog technology",
+        "description_th": "มุมมอง 180 องศา พร้อมเทคโนโลยีป้องกันฝ้า",
+        "description_zh": "180度全景视野，专业防雾防水"
+      },
+      {
+        "id": "addon_lunch",
+        "price": 590,
+        "name_en": "Seafood & Lobster Buffet Upgrade",
+        "name_th": "อัปเกรดบุฟเฟต์ซีฟู้ดและกุ้งมังกร",
+        "name_zh": "升级海鲜与龙虾自助盛宴",
+        "price_type": "per_person",
+        "description_en": "Premium fresh grilled seafood feast on the private beach",
+        "description_th": "อิ่มอร่อยกับซีฟู้ดย่างสดใหม่ริมชายหาดส่วนตัว",
+        "description_zh": "在私人海滩享用现烤新鲜海鲜大餐"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "custom_booking_fields": [
+      {
+        "id": "cbf_diet",
+        "label_en": "Dietary Preferences / Food Allergies",
+        "label_th": "ความต้องการด้านอาหาร / การแพ้อาหาร",
+        "label_zh": "饮食偏好 / 食物过敏",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., Vegetarian, Halal, No Seafood, Nut Allergy"
+      },
+      {
+        "id": "cbf_emergency",
+        "label_en": "Emergency Contact Name & Phone",
+        "label_th": "ชื่อและเบอร์โทรติดต่อฉุกเฉิน",
+        "label_zh": "紧急联系人姓名与电话",
+        "required": false,
+        "field_type": "text",
+        "placeholder_en": "e.g., +66 81 234 5678 (WhatsApp / Line)"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 6,
+    "custom_tour_id": "I-One-6"
+  },
+  "45": {
+    "tourId": 45,
+    "tour_type": "Tour Package",
+    "category": "Island & Marine",
+    "subcategory": "One Day Trip",
+    "charges_extra_pickup_fee": false,
+    "not_recommended": [
+      {
+        "id": "nr_1",
+        "en": "Pregnant Women",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "id": "nr_2",
+        "en": "People with Heart Conditions",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "id": "nr_3",
+        "en": "People with Back or Neck Problems",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "id": "nr_4",
+        "en": "Infants under 1 year old",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "id": "nr_5",
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "id": "inc_1",
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "id": "inc_2",
+        "en": "Professional English & Chinese speaking tour guide",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "id": "inc_3",
+        "en": "Delicious buffet lunch with vegetarian options",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "id": "inc_4",
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "id": "inc_5",
+        "en": "Accident travel insurance coverage",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "id": "inc_6",
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "id": "inc_7",
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "id": "exc_1",
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "id": "exc_2",
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "id": "exc_3",
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "id": "exc_4",
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "id": "exc_5",
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "id": "wtb_1",
+        "en": "Swimwear and beach towel",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "id": "wtb_2",
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "id": "wtb_3",
+        "en": "Comfortable beach sandals or water shoes",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "id": "wtb_4",
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "id": "wtb_5",
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "id": "wtb_6",
+        "en": "Change of dry clothes",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "custom_fields": [
+      {
+        "id": "cf_guide",
+        "name_en": "Tour Guide Language",
+        "name_th": "ภาษาของไกด์นำเที่ยว",
+        "name_zh": "导游语言",
+        "value_en": "English & Chinese (Professional Licensed)",
+        "value_th": "อังกฤษและจีน (มีใบอนุญาตวิชาชีพ)",
+        "value_zh": "中文与英文（专业持证导游）"
+      },
+      {
+        "id": "cf_departure",
+        "name_en": "Departure Pier",
+        "name_th": "ท่าเรือต้นทาง",
+        "name_zh": "出发码头",
+        "value_en": "Royal Phuket Marina (Pier 4)",
+        "value_th": "รอยัล ภูเก็ต มารีน่า (ท่าเทียบเรือ 4)",
+        "value_zh": "普吉皇家游艇码头（4号码头）"
+      }
+    ],
+    "ticket_types": [],
+    "optional_addons": [
+      {
+        "id": "addon_snorkel",
+        "name_en": "Full-Face Snorkel Mask Rental",
+        "name_th": "เช่าหน้ากากดำน้ำแบบเต็มหน้า",
+        "name_zh": "全干式面罩呼吸管租赁",
+        "price": 250,
+        "price_type": "per_person",
+        "description_en": "180° panoramic view with anti-fog technology",
+        "description_th": "มุมมอง 180 องศา พร้อมเทคโนโลยีป้องกันฝ้า",
+        "description_zh": "180度全景视野，专业防雾防水"
+      },
+      {
+        "id": "addon_lunch",
+        "name_en": "Seafood & Lobster Buffet Upgrade",
+        "name_th": "อัปเกรดบุฟเฟต์ซีฟู้ดและกุ้งมังกร",
+        "name_zh": "升级海鲜与龙虾自助盛宴",
+        "price": 590,
+        "price_type": "per_person",
+        "description_en": "Premium fresh grilled seafood feast on the private beach",
+        "description_th": "อิ่มอร่อยกับซีฟู้ดย่างสดใหม่ริมชายหาดส่วนตัว",
+        "description_zh": "在私人海滩享用现烤新鲜海鲜大餐"
+      }
+    ],
+    "custom_booking_fields": [
+      {
+        "id": "cbf_diet",
+        "label_en": "Dietary Preferences / Food Allergies",
+        "label_th": "ความต้องการด้านอาหาร / การแพ้อาหาร",
+        "label_zh": "饮食偏好 / 食物过敏",
+        "field_type": "text",
+        "required": false,
+        "placeholder_en": "e.g., Vegetarian, Halal, No Seafood, Nut Allergy"
+      },
+      {
+        "id": "cbf_emergency",
+        "label_en": "Emergency Contact Name & Phone",
+        "label_th": "ชื่อและเบอร์โทรติดต่อฉุกเฉิน",
+        "label_zh": "紧急联系人姓名与电话",
+        "field_type": "text",
+        "required": false,
+        "placeholder_en": "e.g., +66 81 234 5678 (WhatsApp / Line)"
+      }
+    ],
+    "ticket_details": {
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "redemption_point": "Present digital e-voucher at Ticket Gate",
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "show_times": [
+        "17:30",
+        "19:30",
+        "20:30"
+      ],
+      "daily_shows_count": 3,
+      "has_transfer_addon": true,
+      "transfer_price": 350,
+      "unit": "per ticket",
+      "custom_details": [
+        {
+          "id": "td_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง / ทางเข้า",
+          "name_zh": "景点与场馆地址",
+          "value_en": "Attraction Ticket Counter, Phuket"
+        },
+        {
+          "id": "td_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "换票与入园处",
+          "value_en": "Present digital e-voucher at Ticket Gate"
+        },
+        {
+          "id": "td_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดให้เข้าชม",
+          "name_zh": "开园及营业时间",
+          "value_en": "09:00 - 18:00 (Daily)"
+        },
+        {
+          "id": "td_validity",
+          "name_en": "Ticket Validity",
+          "name_th": "อายุการใช้งานบัตร",
+          "name_zh": "门票有效期",
+          "value_en": "Valid only on selected date during operating hours"
+        }
+      ]
+    },
+    "transfer_details": {
+      "service_type": "Airport Transfer",
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "activity_details": {
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "duration": "2 Hours",
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "tour_order": 7,
+    "custom_tour_id": "I-One-7"
+  },
+  "46": {
+    "tourId": 46,
+    "category": "Island & Marine",
+    "tour_type": "Tour Package",
+    "subcategory": "One Day Trip",
+    "tour_excludes": [
+      {
+        "en": "Gratuities and tips for tour guide and boat captain",
+        "id": "tour_excludes_1",
+        "th": "ทิปและเงินรางวัลสำหรับไกด์และกัปตันเรือตามความพึงพอใจ",
+        "zh": "导游与快艇船长小费（自愿原则）"
+      },
+      {
+        "en": "Personal expenses, souvenirs, and alcoholic beverages",
+        "id": "tour_excludes_2",
+        "th": "ค่าใช้จ่ายส่วนตัว ของที่ระลึก และเครื่องดื่มแอลกอฮอล์",
+        "zh": "个人消费、纪念品购买及酒精饮品"
+      },
+      {
+        "en": "Scuba diving equipment (available for rent at dive sites)",
+        "id": "tour_excludes_3",
+        "th": "อุปกรณ์ดำน้ำลึก Scuba (มีให้เช่า ณ จุดดำน้ำ)",
+        "zh": "深潜水肺装备（可在潜水点现场自费租赁）"
+      },
+      {
+        "en": "Optional water sports (e.g. Parasailing, Sea Walker, Banana Boat)",
+        "id": "tour_excludes_4",
+        "th": "กิจกรรมทางน้ำเสริม (เช่น พาราเซลลิ่ง, เดินใต้สมุทร ซีวอล์คเกอร์, บานาน่าโบ๊ท)",
+        "zh": "自选水上娱乐项目（如拖曳伞、海底漫步、香蕉船等）"
+      },
+      {
+        "en": "Hotel transfers outside designated free zones (if applicable)",
+        "id": "tour_excludes_5",
+        "th": "ค่าบริการรับ-ส่งนอกเขตพื้นที่บริการฟรี (ถ้ามี)",
+        "zh": "指定免费接送区域外的超区接送附加费（如有）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Roundtrip hotel transfer in air-conditioned vehicle",
+        "id": "tour_includes_1",
+        "th": "รถตู้ปรับอากาศรับ-ส่งไปกลับจากโรงแรม",
+        "zh": "空调面包车往返酒店接送服务"
+      },
+      {
+        "en": "Professional English & Chinese speaking tour guide",
+        "id": "tour_includes_2",
+        "th": "มัคคุเทศก์มืออาชีพสื่อสารภาษาอังกฤษและภาษาจีน",
+        "zh": "专业持证英文与中文双语导游"
+      },
+      {
+        "en": "Delicious buffet lunch with vegetarian options",
+        "id": "tour_includes_3",
+        "th": "อาหารกลางวันแบบบุฟเฟต์แสนอร่อย พร้อมตัวเลือกอาหารมังสวิรัติ",
+        "zh": "丰富美味的自助午餐（含素食选项）"
+      },
+      {
+        "en": "Snorkeling equipment (mask, snorkel, life jacket)",
+        "id": "tour_includes_4",
+        "th": "อุปกรณ์ดำน้ำตื้น (หน้ากาก, ท่อหายใจ, เสื้อชูชีพ)",
+        "zh": "浮潜装备（浮潜面镜、呼吸管、救生衣）"
+      },
+      {
+        "en": "Accident travel insurance coverage",
+        "id": "tour_includes_5",
+        "th": "ประกันภัยอุบัติเหตุการเดินทางตามกฎหมาย",
+        "zh": "全程旅游意外人身保险保障"
+      },
+      {
+        "en": "Fresh tropical fruits, soft drinks, and cold drinking water",
+        "id": "tour_includes_6",
+        "th": "ผลไม้สดตามฤดูกาล น้ำอัดลม และน้ำดื่มเย็นบริการตลอดทริป",
+        "zh": "当季热带新鲜水果、软饮及冷饮用水"
+      },
+      {
+        "en": "National Park admission fees (unless specified as local cash collection)",
+        "id": "tour_includes_7",
+        "th": "ค่าธรรมเนียมเข้าอุทยานแห่งชาติ (ยกเว้นกรณีระบุว่าเก็บเป็นเงินสด ณ สถานที่จริง)",
+        "zh": "国家公园门票费（除特别注明需现场自理现金外）"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Swimwear and beach towel",
+        "id": "what_to_bring_1",
+        "th": "ชุดว่ายน้ำและผ้าเช็ดตัว",
+        "zh": "泳装与沙滩毛巾"
+      },
+      {
+        "en": "Sunscreen (reef-safe recommended), sunglasses, and sun hat",
+        "id": "what_to_bring_2",
+        "th": "ครีมกันแดด (แนะนำแบบเป็นมิตรต่อปะการัง) แว่นกันแดด และหมวกกันแดด",
+        "zh": "防晒霜（建议环保防珊瑚白化型）、太阳镜及遮阳帽"
+      },
+      {
+        "en": "Comfortable beach sandals or water shoes",
+        "id": "what_to_bring_3",
+        "th": "รองเท้าแตะเดินชายหาดหรือรองเท้าลุยน้ำสวมสบาย",
+        "zh": "舒适的沙滩拖鞋或溯溪涉水鞋"
+      },
+      {
+        "en": "Copy of passport or digital passport photo (required for National Park registration)",
+        "id": "what_to_bring_4",
+        "th": "สำเนาหนังสือเดินทางหรือรูปถ่ายพาสปอร์ตในมือถือ (สำหรับลงทะเบียนเข้าอุทยานแห่งชาติ)",
+        "zh": "护照复印件或手机护照照片（用于国家公园登岛实名登记）"
+      },
+      {
+        "en": "Pocket money in Thai Baht (THB) for small personal purchases",
+        "id": "what_to_bring_5",
+        "th": "เงินสดสกุลบาท (THB) สำหรับใช้จ่ายส่วนตัวเล็กน้อย",
+        "zh": "泰铢现金零钱（用于岛上小额自费消费）"
+      },
+      {
+        "en": "Change of dry clothes",
+        "id": "what_to_bring_6",
+        "th": "ชุดเสื้อผ้าแห้งสำหรับเปลี่ยน",
+        "zh": "一套干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate"
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "not_recommended_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "not_recommended_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      },
+      {
+        "en": "People with Back or Neck Problems",
+        "id": "not_recommended_3",
+        "th": "ผู้ที่มีปัญหาเกี่ยวกับกระดูกสันหลังหรือคอ",
+        "zh": "患有颈椎病或背部脊柱疾病者"
+      },
+      {
+        "en": "Infants under 1 year old",
+        "id": "not_recommended_4",
+        "th": "ทารกอายุต่ำกว่า 1 ปี",
+        "zh": "1岁以下婴儿"
+      },
+      {
+        "en": "Wheelchair users / Mobility impaired (speedboat tours)",
+        "id": "not_recommended_5",
+        "th": "ผู้ใช้เก้าอี้รถเข็น / ผู้มีความบกพร่องด้านการเคลื่อนไหว (ทัวร์เรือสปีดโบ๊ท)",
+        "zh": "轮椅使用者 / 行动不便者（快艇行程）"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "charges_extra_pickup_fee": false,
+    "tour_order": 8,
+    "custom_tour_id": "I-One-8"
+  },
+  "52": {
+    "tourId": 52,
+    "category": "Ticket Only",
+    "tour_type": "Ticket Only",
+    "subcategory": "Theme & Water Parks",
+    "ticket_types": [
+      {
+        "id": "andamanda_adult",
+        "price": 1800,
+        "name_en": "Adult Full Day Pass (Height 121cm+)",
+        "name_th": "บัตรผู้ใหญ่เข้าเล่นเต็มวัน (สูง 121 ซม. ขึ้นไป)",
+        "name_zh": "成人全日通票（身高121厘米及以上）",
+        "description_en": "Unlimited access to all water slides, rides and themed zones",
+        "description_th": "เล่นเครื่องเล่น สไลเดอร์ และทุกโซนได้ไม่จำกัดตลอดทั้งวัน",
+        "description_zh": "畅玩全园所有水上滑道、激流项目及主题区域"
+      },
+      {
+        "id": "andamanda_child",
+        "price": 1200,
+        "name_en": "Child Admission Pass (Height 91–120cm)",
+        "name_th": "บัตรเด็ก (ส่วนสูง 91–120 ซม.)",
+        "name_zh": "儿童优惠票（身高91-120厘米）",
+        "description_en": "Child access to all designated children pools, lazy river and family slides",
+        "description_th": "สำหรับเด็กเพื่อเล่นในโซนสระเด็ก สไลเดอร์ครอบครัว และสายน้ำวน",
+        "description_zh": "儿童畅玩儿童水寨、家庭温和滑道及漂流河"
+      },
+      {
+        "id": "andamanda_senior",
+        "price": 1200,
+        "name_en": "Senior Citizen Pass (Age 60+)",
+        "name_th": "บัตรผู้สูงอายุ (อายุ 60 ปีขึ้นไป)",
+        "name_zh": "长者特惠票（年满60周岁）",
+        "description_en": "Discounted admission for seniors with valid photo ID / passport",
+        "description_th": "บัตรราคาพิเศษสำหรับผู้สูงอายุ 60 ปีขึ้นไป แสดงบัตรประชาชนหรือพาสปอร์ต",
+        "description_zh": "60周岁及以上长者特惠门票（入园需出示有效证件）"
+      },
+      {
+        "id": "andamanda_combo",
+        "price": 2200,
+        "adult_price": 2200,
+        "child_price": 1600,
+        "name_en": "All-in Pass: Admission + Towel + Standard Locker",
+        "name_th": "บัตรออลอิน: บัตรเข้าชม + ผ้าเช็ดตัว + ล็อกเกอร์มาตรฐาน",
+        "name_zh": "全包通票：门票 + 浴巾租赁 + 标准储物柜",
+        "description_en": "Complete hassle-free package including towel and secure locker",
+        "description_th": "แพ็กเกจสุดคุ้มรวมค่าเช่าผ้าเช็ดตัวและตู้ล็อกเกอร์เรียบร้อยแล้ว",
+        "description_zh": "含全日通票、无忧浴巾租赁及独立安全储物柜"
+      }
+    ],
+    "custom_fields": [
+      {
+        "id": "cf_hours",
+        "name_en": "Park Operating Hours",
+        "name_th": "เวลาเปิดทำการของสวนน้ำ",
+        "name_zh": "乐园开放时间",
+        "value_en": "10:00 AM – 07:00 PM Daily",
+        "value_th": "10:00 น. – 19:00 น. ทุกวัน",
+        "value_zh": "每日 10:00 – 19:00"
+      },
+      {
+        "id": "cf_last_entry",
+        "name_en": "Last Admission Time",
+        "name_th": "เวลาเข้าชมรอบสุดท้าย",
+        "name_zh": "最晚入园时间",
+        "value_en": "05:30 PM",
+        "value_th": "17:30 น.",
+        "value_zh": "17:30"
+      }
+    ],
+    "tour_excludes": [
+      {
+        "en": "Locker and towel rental (available on-site at rental counter)",
+        "id": "exc_waterpark_1",
+        "th": "ค่าเช่าล็อกเกอร์และผ้าเช็ดตัว (มีจุดบริการเช่าภายในสวนน้ำ)",
+        "zh": "储物柜及浴巾租赁费（可在园区租赁处现场租用）"
+      },
+      {
+        "en": "Food, beverages, and wristband reload credit",
+        "id": "exc_waterpark_2",
+        "th": "อาหาร เครื่องดื่ม และยอดเงินเติมสายรัดข้อมือ",
+        "zh": "园内餐饮、饮料及手环充值消费"
+      },
+      {
+        "en": "Private VIP cabana rentals",
+        "id": "exc_waterpark_3",
+        "th": "บริการเช่าซุ้มคาบาน่าส่วนตัว",
+        "zh": "私人VIP豪华凉亭卡巴纳租赁"
+      },
+      {
+        "en": "Hotel transfers (available as an optional booking addon)",
+        "id": "exc_waterpark_4",
+        "th": "บริการรถรับ-ส่งโรงแรม (สามารถเลือกซื้อเสริมได้)",
+        "zh": "酒店接送（可按需选择附加项）"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "Full-day admission to all 5 themed zones in Andamanda Phuket",
+        "id": "inc_waterpark_1",
+        "th": "บัตรเข้าสวนน้ำตลอดวัน ครอบคลุมทั้ง 5 โซนธีมอันดามันดา",
+        "zh": "普吉安达曼达水上乐园全天全区通票（畅玩五大主题区）"
+      },
+      {
+        "en": "Unlimited access to 12 world-class extreme slides, wave pools & lazy river",
+        "id": "inc_waterpark_2",
+        "th": "เล่นเครื่องเล่นสไลเดอร์ สระคลื่นยักษ์ และสายน้ำวนได้ไม่จำกัดรอบ",
+        "zh": "无限次畅玩12条世界级极速滑道、人工造浪池及漂流河"
+      },
+      {
+        "en": "Complimentary standard life jackets for children and adults",
+        "id": "inc_waterpark_3",
+        "th": "เสื้อชูชีพมาตรฐานบริการฟรีสำหรับเด็กและผู้ใหญ่",
+        "zh": "免费提供符合国际安全标准的成人及儿童救生衣"
+      },
+      {
+        "en": "Certified professional lifeguards and on-site medical first-aid station",
+        "id": "inc_waterpark_4",
+        "th": "เจ้าหน้าที่ดูแลความปลอดภัยที่มีใบรับรองและห้องพยาบาลปฐมพยาบาล",
+        "zh": "持证专业救生员全程安全监护与专业医务救护站"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Instant E-ticket / QR code on smartphone for fast gate scan",
+        "id": "wtb_waterpark_1",
+        "th": "ตั๋วอิเล็กทรอนิกส์หรือคิวอาร์โค้ดในมือถือสำหรับสแกนเข้าประตูทันที",
+        "zh": "手机出示电子凭证/QR二维码，闸机直接扫码入园"
+      },
+      {
+        "en": "Proper swimwear without metal zippers or sharp buttons",
+        "id": "wtb_waterpark_2",
+        "th": "ชุดว่ายน้ำที่เหมาะสม ไม่มีซิปโลหะหรือกระดุมแหลมคม",
+        "zh": "符合水上游乐规定的合规泳衣（无金属拉链或尖锐扣饰）"
+      },
+      {
+        "en": "Waterproof phone pouch and sunglasses strap",
+        "id": "wtb_waterpark_3",
+        "th": "ซองกันน้ำสำหรับโทรศัพท์มือถือและสายคล้องแว่นตา",
+        "zh": "手机防水袋及太阳镜防脱落挂绳"
+      },
+      {
+        "en": "Beach towel and change of dry clothing",
+        "id": "wtb_waterpark_4",
+        "th": "ผ้าเช็ดตัวและชุดลำลองสำหรับเปลี่ยนกลับ",
+        "zh": "浴巾及干燥换洗衣物"
+      }
+    ],
+    "gallery_images": [],
+    "ticket_details": {
+      "unit": "per full-day water park pass",
+      "show_times": [
+        "10:00 - Full Day Admission",
+        "13:00 - Afternoon Splash Session"
+      ],
+      "venue_address": "333/3 Moo 1, Tambon Kathu, Amphoe Kathu, Phuket 83120 Thailand",
+      "custom_details": [
+        {
+          "id": "td_t52_venue",
+          "name_en": "Attraction Venue",
+          "name_th": "สถานที่จัดแสดง",
+          "name_zh": "水上乐园地址",
+          "value_en": "333/3 Moo 1, Tambon Kathu, Amphoe Kathu, Phuket 83120",
+          "value_th": "333/3 หมู่ 1 ต.กะทู้ อ.กะทู้ จ.ภูเก็ต 83120",
+          "value_zh": "333/3 Moo 1, Kathu, Phuket 83120"
+        },
+        {
+          "id": "td_t52_redemption",
+          "name_en": "Ticket Redemption Point",
+          "name_th": "จุดแลกรับบัตร",
+          "name_zh": "入园取票处",
+          "value_en": "Direct turnstile scan with mobile E-ticket QR code",
+          "value_th": "สแกนคิวอาร์โค้ดผ่านประตูหมุนทางเข้าได้ทันที",
+          "value_zh": "闸机直接扫描手机电子票二维码快速入园"
+        },
+        {
+          "id": "td_t52_hours",
+          "name_en": "Admission Operating Hours",
+          "name_th": "เวลาทำการเปิดเข้าชม",
+          "name_zh": "乐园开放时间",
+          "value_en": "10:00 AM – 07:00 PM Daily",
+          "value_th": "10:00 น. – 19:00 น. ทุกวัน",
+          "value_zh": "每日 10:00 – 19:00"
+        },
+        {
+          "id": "td_t52_dress",
+          "name_en": "Dress Code & Swimwear",
+          "name_th": "ข้อกำหนดชุดว่ายน้ำ",
+          "name_zh": "泳装与着装规定",
+          "value_en": "Proper swimwear required on all water slides (no metal buckles or zippers)",
+          "value_th": "ต้องสวมชุดว่ายน้ำที่เหมาะสมบนสไลเดอร์ (ไม่มีซิปหรือหัวเข็มขัดโลหะ)",
+          "value_zh": "滑道游玩须穿专业泳衣（禁止金属搭扣或外露拉链）"
+        },
+        {
+          "id": "td_t52_lockers",
+          "name_en": "Lockers & Towel Rental",
+          "name_th": "ล็อกเกอร์และผ้าขนหนู",
+          "name_zh": "储物柜与毛巾租借",
+          "value_en": "Cashless RFID wristband available for food and locker rental",
+          "value_th": "สายรัดข้อมือ RFID ไร้เงินสดสำหรับเช่าล็อกเกอร์และอาหาร",
+          "value_zh": "提供智能RFID无现金手环，可租借储物柜与餐饮消费"
+        },
+        {
+          "id": "td_t52_child",
+          "name_en": "Child & Infant Policy",
+          "name_th": "นโยบายเด็กและทารก",
+          "name_zh": "儿童与免票政策",
+          "value_en": "Children under 90 cm enter free with a paying adult",
+          "value_th": "เด็กส่วนสูงต่ำกว่า 90 ซม. เข้าฟรีเมื่อมากับผู้ใหญ่",
+          "value_zh": "身高90厘米以下儿童免票入园"
+        },
+        {
+          "id": "td_t52_safety",
+          "name_en": "Life Jackets & Safety",
+          "name_th": "เสื้อชูชีพและความปลอดภัย",
+          "name_zh": "救生衣与安全设施",
+          "value_en": "Complimentary certified life jackets provided for all guests",
+          "value_th": "มีเสื้อชูชีพมาตรฐานสากลให้บริการฟรีสำหรับทุกเพศทุกวัย",
+          "value_zh": "免费提供国际标准救生衣，全天专业救生员在岗巡视"
+        }
+      ],
+      "transfer_price": 350,
+      "validity_notes": "Valid on selected visit date during operating hours (10:00 - 19:00)",
+      "admission_hours": "10:00 AM – 07:00 PM Daily",
+      "redemption_point": "Scan mobile E-ticket QR code directly at the entry turnstiles",
+      "daily_shows_count": 2,
+      "has_transfer_addon": true
+    },
+    "not_recommended": [
+      {
+        "en": "Guests unable to swim unaccompanied in deep wave pools",
+        "id": "nr_swim_safety",
+        "th": "ผู้ที่ว่ายน้ำไม่เป็นในสระคลื่นน้ำลึกโดยไม่มีผู้ดูแล",
+        "zh": "深水造浪池中无法独立游泳且无监护人陪同者"
+      },
+      {
+        "en": "Guests with severe heart conditions or spine injuries (for high-speed drop slides)",
+        "id": "nr_heart",
+        "th": "ผู้มีโรคหัวใจร้ายแรงหรือปัญหาเกี่ยวกับกระดูกสันหลัง (สำหรับสไลเดอร์ความเร็วสูง)",
+        "zh": "患有严重心脏病或脊椎损伤者（极速水上滑道项目）"
+      }
+    ],
+    "optional_addons": [
+      {
+        "id": "addon_locker",
+        "price": 150,
+        "name_en": "Standard RFID Locker Rental",
+        "name_th": "เช่าล็อกเกอร์ระบบ RFID มาตรฐาน",
+        "name_zh": "标准智能RFID电子储物柜租赁",
+        "price_type": "per_booking",
+        "description_en": "Full-day unlimited keyless access using your park wristband",
+        "description_th": "เปิด-ปิดได้ไม่จำกัดตลอดทั้งวันด้วยสายรัดข้อมือ",
+        "description_zh": "全天无限次智能手环感应开箱使用"
+      },
+      {
+        "id": "addon_towel",
+        "price": 100,
+        "name_en": "Fresh Beach Towel Rental",
+        "name_th": "เช่าผ้าเช็ดตัวผืนใหญ่",
+        "name_zh": "大尺寸沙滩浴巾租赁",
+        "price_type": "per_person",
+        "description_en": "Freshly laundered large beach towel for the day",
+        "description_th": "ผ้าเช็ดตัวสะอาดผืนใหญ่สำหรับใช้ในสวนน้ำ",
+        "description_zh": "干净消毒的大号吸水沙滩浴巾"
+      },
+      {
+        "id": "addon_van",
+        "price": 350,
+        "name_en": "Roundtrip Hotel Transfer (Shared Van)",
+        "name_th": "รถตู้รับ-ส่งไปกลับจากโรงแรม",
+        "name_zh": "酒店往返拼车接送服务",
+        "price_type": "per_person",
+        "description_en": "Air-conditioned roundtrip hotel transfers across Phuket",
+        "description_th": "บริการรถตู้ปรับอากาศรับ-ส่งโรงแรมในเขตภูเก็ต",
+        "description_zh": "普吉岛主流区域酒店空调拼车往返接送"
+      }
+    ],
+    "custom_booking_fields": [
+      {
+        "id": "cbf_visit_date",
+        "label_en": "Visit Date",
+        "label_th": "วันที่ต้องการเข้าใช้บริการ",
+        "label_zh": "入园游玩日期",
+        "required": true,
+        "field_type": "text",
+        "placeholder_en": "YYYY-MM-DD"
+      }
+    ],
+    "charges_extra_pickup_fee": false,
+    "tour_order": 1,
+    "custom_tour_id": "T-The-1"
+  },
+  "999": {
+    "tourId": 999,
+    "tour_id": 999,
+    "category": "Tickets & Attractions",
+    "tour_type": "ticket_only",
+    "subcategory": "Theme Parks",
+    "tour_excludes": [
+      {
+        "en": "Hotel transfer",
+        "id": "tour_excludes_1",
+        "th": "บริการรถรับ-ส่งโรงแรม",
+        "zh": "酒店往返接送服务"
+      },
+      {
+        "en": "Food and beverages",
+        "id": "tour_excludes_2",
+        "th": "อาหารและเครื่องดื่ม",
+        "zh": "餐饮与酒水饮料"
+      }
+    ],
+    "tour_includes": [
+      {
+        "en": "General Admission Ticket",
+        "id": "tour_includes_1",
+        "th": "บัตรเข้าชมทั่วไป",
+        "zh": "景点通用入场门票"
+      },
+      {
+        "en": "Access to all zones",
+        "id": "tour_includes_2",
+        "th": "เข้าถึงพื้นที่จัดแสดงทุกโซน",
+        "zh": "畅玩全区所有游乐区域"
+      }
+    ],
+    "what_to_bring": [
+      {
+        "en": "Valid Photo ID or Passport",
+        "id": "what_to_bring_1",
+        "th": "บัตรประชาชนหรือหนังสือเดินทางตัวจริง",
+        "zh": "有效身份证件或护照"
+      },
+      {
+        "en": "Confirmation Email Voucher",
+        "id": "what_to_bring_2",
+        "th": "อีเมลยืนยันการจอง / วอชเชอร์",
+        "zh": "确认邮件电子确认单/凭证"
+      }
+    ],
+    "gallery_images": [
+      "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?w=1200&q=80"
+    ],
+    "ticket_details": {
+      "venue_address": "Attraction Ticket Counter, Phuket",
+      "validity_notes": "Valid only on selected date during operating hours",
+      "admission_hours": "09:00 - 18:00 (Daily)",
+      "redemption_point": "Present digital e-voucher at Ticket Gate"
+    },
+    "not_recommended": [
+      {
+        "en": "Pregnant Women",
+        "id": "not_recommended_1",
+        "th": "สตรีมีครรภ์",
+        "zh": "孕妇"
+      },
+      {
+        "en": "People with Heart Conditions",
+        "id": "not_recommended_2",
+        "th": "ผู้มีโรคหัวใจหรือโรคประจำตัวร้ายแรง",
+        "zh": "患有心脏病等严重心血管疾病者"
+      }
+    ],
+    "private_details": {
+      "charter_type": "Private Speedboat",
+      "max_capacity": 15,
+      "charter_duration": "Full Day (8 Hours)",
+      "customizable_itinerary": true
+    },
+    "activity_details": {
+      "duration": "2 Hours",
+      "activity_name": "Signature Island Activity",
+      "session_slots": [
+        "Morning 09:00 - 11:30",
+        "Afternoon 13:30 - 16:00"
+      ],
+      "equipment_provided": [
+        "Full safety gear",
+        "Instructor guidance",
+        "Complimentary locker"
+      ],
+      "safety_requirements": "Minimum age 10 years old. Good physical condition required."
+    },
+    "transfer_details": {
+      "pickup_zones": [
+        "Phuket Airport (HKT)",
+        "Phuket Town",
+        "Patong",
+        "Kata/Karon",
+        "Rawai/Nai Harn",
+        "Bang Tao/Laguna"
+      ],
+      "service_type": "Airport Transfer",
+      "dropoff_zones": [
+        "Hotel Lobby",
+        "Phuket Airport (HKT)",
+        "Rassada Pier",
+        "Ao Po Grand Marina"
+      ],
+      "vehicle_types": [
+        "VIP Toyota Commuter Van (1-10 pax)",
+        "Executive Sedan (1-3 pax)",
+        "Luxury SUV (1-4 pax)"
+      ],
+      "luggage_policy": "1 standard suitcase + 1 carry-on bag per passenger"
+    },
+    "charges_extra_pickup_fee": false,
+    "tour_order": 1,
+    "custom_tour_id": "T-The-1"
+  }
+}

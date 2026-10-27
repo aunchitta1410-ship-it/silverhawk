@@ -1,0 +1,82 @@
+
+{
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "service": "Service",
+    "about": "About Us",
+    "myBooking": "My Booking",
+    "contact": "Contact Us"
+  },
+  "bookingForm": {
+    "title": "Book Your Tour",
+    "fullName": "Full Name",
+    "enterName": "Enter your name",
+    "email": "Email",
+    "enterEmail": "Enter your email",
+    "guests": "Number of Guests",
+    "travelDate": "Travel Date",
+    "confirm": "Confirm Booking"
+  },
+  "confirmation": {
+    "title": "Booking Request Received",
+    "thankYou": "Thank you for booking with Silver Hawk.",
+    "requestReceived": "Your booking request has been received.",
+    "bookingId": "Booking ID",
+    "bookingDetails": "Booking Details",
+    "name": "Name",
+    "email": "Email",
+    "tour": "Tour",
+    "price": "Price",
+    "guests": "Guests",
+    "travelDate": "Travel Date",
+    "backHome": "Back to Home",
+    "proceedToPayment": "Proceed to Payment",
+    "viewMyBooking": "View My Booking",
+    "notFound": "Booking not found",
+    "invalidLink": "We could not find this booking or the access link is invalid."
+  },
+  "bookingProgress": {
+    "title": "Booking Progress",
+    "submitted": "Booking Submitted",
+    "review": "Admin Review",
+    "payment": "Payment",
+    "bookingNumber": "Booking #{id}",
+    "statusPending": "Pending",
+    "statusApproved": "Approved",
+    "statusPaid": "Paid",
+    "statusRejected": "Rejected / Cancelled",
+    "pendingMessage": "We are reviewing your booking request.",
+    "approvedMessage": "Your booking has been approved. You may proceed to payment.",
+    "paidMessage": "Your payment has been confirmed.",
+    "rejectedMessage": "This booking was rejected or cancelled. Please contact our team.",
+    "pendingPaymentNotice": "Payment is available after approval. We will contact you when there is an update.",
+    "proceedToPayment": "Proceed to Payment",
+    "copyLink": "Copy Booking Link",
+    "copySuccess": "Booking link copied successfully.",
+    "copyError": "Unable to copy the link. Please copy the page URL manually.",
+    "saveLinkNotice": "Save this link to check your booking status later.",
+    "refreshError": "Unable to refresh booking status. Please try again."
+},
+  "paymentSuccess": {
+    "title": "Payment Successful",
+    "message": "Thank you! Your payment has been successfully processed.",
+    "details": "Booking Details",
+    "bookingNumber": "Booking Number",
+    "name": "Name",
+    "email": "Email",
+    "tour": "Tour",
+    "travelDate": "Travel Date",
+    "guests": "Guests",
+    "amountPaid": "Amount Paid",
+    "status": "Status",
+    "paid": "Paid",
+    "backHome": "Back to Home"
+  },
+  "common": {
+    "next": "Next",
+    "back": "Back",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  }
+}

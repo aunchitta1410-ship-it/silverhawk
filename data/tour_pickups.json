@@ -1,0 +1,157 @@
+{
+  "1": {
+    "enable_transfer": true,
+    "meeting_point": "Ao Nang Pier",
+    "meeting_time": "08:00",
+    "additional_notes": "Please arrive at least 15 minutes before departure time.",
+    "pickup_locations": [
+      {
+        "id": 1001,
+        "tour_id": 1,
+        "location_name": "Ao Nang",
+        "adult_price": 1500,
+        "child_price": 1100,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 1
+      },
+      {
+        "id": 1002,
+        "tour_id": 1,
+        "location_name": "Krabi Town",
+        "adult_price": 1700,
+        "child_price": 1250,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 2
+      },
+      {
+        "id": 1003,
+        "tour_id": 1,
+        "location_name": "Klong Muang",
+        "adult_price": 1900,
+        "child_price": 1400,
+        "notes": "-",
+        "is_active": false,
+        "sort_order": 3
+      }
+    ],
+    "is_fallback": true
+  },
+  "10": {
+    "enable_transfer": true,
+    "meeting_point": "Ao Nang Pier",
+    "meeting_time": "08:00",
+    "additional_notes": "Please arrive at least 15 minutes before departure time.",
+    "pickup_locations": [
+      {
+        "id": 1001,
+        "tour_id": 10,
+        "location_name": "Ao Nang",
+        "adult_price": 1500,
+        "child_price": 1100,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 1
+      },
+      {
+        "id": 1002,
+        "tour_id": 10,
+        "location_name": "Krabi Town",
+        "adult_price": 1700,
+        "child_price": 1250,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 2
+      },
+      {
+        "id": 1003,
+        "tour_id": 10,
+        "location_name": "Klong Muang",
+        "adult_price": 1900,
+        "child_price": 1400,
+        "notes": "-",
+        "is_active": false,
+        "sort_order": 3
+      }
+    ]
+  },
+  "33": {
+    "enable_transfer": true,
+    "meeting_point": "Ao Nang Pier",
+    "meeting_time": "08:00",
+    "additional_notes": "Please arrive at least 15 minutes before departure time.",
+    "pickup_locations": [
+      {
+        "id": 1001,
+        "tour_id": 33,
+        "location_name": "Ao Nang",
+        "adult_price": 1500,
+        "child_price": 1100,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 1
+      },
+      {
+        "id": 1002,
+        "tour_id": 33,
+        "location_name": "Krabi Town",
+        "adult_price": 1700,
+        "child_price": 1250,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 2
+      },
+      {
+        "id": 1003,
+        "tour_id": 33,
+        "location_name": "Klong Muang",
+        "adult_price": 1900,
+        "child_price": 1400,
+        "notes": "-",
+        "is_active": false,
+        "sort_order": 3
+      }
+    ],
+    "is_fallback": true
+  },
+  "34": {
+    "enable_transfer": true,
+    "meeting_point": "Ao Nang Pier",
+    "meeting_time": "08:00",
+    "additional_notes": "Please arrive at least 15 minutes before departure time.",
+    "pickup_locations": [
+      {
+        "id": 1001,
+        "tour_id": 34,
+        "location_name": "Ao Nang",
+        "adult_price": 1500,
+        "child_price": 1100,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 1
+      },
+      {
+        "id": 1002,
+        "tour_id": 34,
+        "location_name": "Krabi Town",
+        "adult_price": 1700,
+        "child_price": 1250,
+        "notes": "-",
+        "is_active": true,
+        "sort_order": 2
+      },
+      {
+        "id": 1003,
+        "tour_id": 34,
+        "location_name": "Klong Muang",
+        "adult_price": 1900,
+        "child_price": 1400,
+        "notes": "-",
+        "is_active": false,
+        "sort_order": 3
+      }
+    ],
+    "is_fallback": true
+  }
+}
